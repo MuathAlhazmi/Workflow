@@ -1,0 +1,56 @@
+dependencies: \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/FIRStorageReference.m \
+  /Users/muath/workflow/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/module.modulemap \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Public/FirebaseStorage/FIRStorageReference.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Public/FirebaseStorage/FIRStorage.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Public/FirebaseStorage/FIRStorageConstants.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Public/FirebaseStorage/FIRStorageDownloadTask.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Public/FirebaseStorage/FIRStorageObservableTask.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Public/FirebaseStorage/FIRStorageTask.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Public/FirebaseStorage/FIRStorageMetadata.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Public/FirebaseStorage/FIRStorageListResult.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Public/FirebaseStorage/FIRStorageUploadTask.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/FIRStorageConstants_Private.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/FIRStorageDeleteTask.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/FIRStorageDownloadTask_Private.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/FIRStorageGetDownloadURLTask.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/FIRStorageGetMetadataTask.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/FIRStorageListResult_Private.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/FIRStorageListTask.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/FIRStorageMetadata_Private.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/FIRStorageReference_Private.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/FIRStoragePath.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/FIRStorageTaskSnapshot_Private.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Public/FirebaseStorage/FIRStorageTaskSnapshot.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/FIRStorageTask_Private.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/FIRStorageErrors.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/FIRStorageUtils.h \
+  /Users/muath/workflow/build/macos/Build/Intermediates.noindex/Pods.build/Debug/GTMSessionFetcher.build/module.modulemap \
+  /Users/muath/workflow/macos/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h \
+  /Users/muath/workflow/macos/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h \
+  /Users/muath/workflow/macos/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h \
+  /Users/muath/workflow/macos/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h \
+  /Users/muath/workflow/macos/Pods/Target\ Support\ Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/FIRStorageUpdateMetadataTask.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/FIRStorageUploadTask_Private.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/FIRStorage_Private.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseCore/Sources/Private/FirebaseCoreInternal.h \
+  /Users/muath/workflow/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCore.build/module.modulemap \
+  /Users/muath/workflow/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/muath/workflow/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/muath/workflow/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/muath/workflow/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/muath/workflow/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/muath/workflow/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/muath/workflow/macos/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseCore/Sources/Private/FIRAppInternal.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseCore/Sources/Private/FIRComponent.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseCore/Sources/Private/FIRComponentContainer.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseCore/Sources/Private/FIRComponentType.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseCore/Sources/Private/FIRDependency.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseCore/Sources/Private/FIRHeartbeatInfo.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseCore/Sources/Private/FIRLibrary.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseCore/Sources/Private/FIRLogger.h \
+  /Users/muath/workflow/macos/Pods/FirebaseStorage/FirebaseCore/Sources/Private/FIROptionsInternal.h

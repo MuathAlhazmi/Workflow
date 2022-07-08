@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "0186b9263f008a56f4c3dd229af0e7cc147eb970b9f456b1685c825ed3086ced"
+build_start_time: [1655890558, 226302146]
+build_end_time: [1655890569, 783122062]
+inputs:
+  ? "/usr/local/Caskroom/flutter/2.2.1/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-3.0.0/macos/Classes/UrlLauncherPlugin.swift"
+  : [1650546409, 359806060]

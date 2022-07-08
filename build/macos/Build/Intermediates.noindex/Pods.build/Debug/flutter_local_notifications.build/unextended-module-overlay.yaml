@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/muath/workflow/build/macos/Build/Products/Debug/flutter_local_notifications/flutter_local_notifications.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/muath/workflow/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_local_notifications.build/unextended-module.modulemap",
+    }]
+  }]
+}

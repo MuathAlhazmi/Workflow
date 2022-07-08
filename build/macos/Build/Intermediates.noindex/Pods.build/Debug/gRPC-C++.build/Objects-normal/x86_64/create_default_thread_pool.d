@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/muath/workflow/macos/Pods/gRPC-C++/src/cpp/server/create_default_thread_pool.cc \
+  /Users/muath/workflow/macos/Pods/Target\ Support\ Files/gRPC-C++/gRPC-C++-prefix.pch \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/cpu.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/port_platform.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/impl/codegen/port_platform.h \
+  /Users/muath/workflow/macos/Pods/gRPC-C++/src/cpp/server/dynamic_thread_pool.h \
+  /Users/muath/workflow/macos/Pods/gRPC-C++/include/grpcpp/support/config.h \
+  /Users/muath/workflow/macos/Pods/gRPC-C++/include/grpcpp/impl/codegen/config.h \
+  /Users/muath/workflow/macos/Pods/gRPC-C++/src/core/lib/gprpp/sync.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/impl/codegen/log.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/impl/codegen/sync.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/impl/codegen/sync_generic.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/impl/codegen/atm.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/impl/codegen/atm_gcc_atomic.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/impl/codegen/sync_posix.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/sync.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/impl/codegen/gpr_types.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/time.h \
+  /Users/muath/workflow/macos/Pods/gRPC-C++/src/core/lib/gprpp/thd.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/log.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/thd_id.h \
+  /Users/muath/workflow/macos/Pods/gRPC-C++/src/core/lib/gprpp/memory.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/gRPC-Core/grpc.framework/Headers/support/alloc.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/memory/memory.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/macros.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/config.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/options.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/port.h \
+  /Users/muath/workflow/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/muath/workflow/macos/Pods/gRPC-C++/src/cpp/server/thread_pool_interface.h
